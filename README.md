@@ -9,8 +9,8 @@ To run the code in your local machine, follow some steps below:
 
 To get rid of all these steps, you can run those files in the Google Colab (https://colab.research.google.com/) without having overhead.
 
-If problems still exist, you can share me on yashuv.baskota1@gmail.com
+If problems still exist, you can mail me on yashuv.baskota1@gmail.com
 
-Thank You!
+Thank You! HappY Coding..
 
 
