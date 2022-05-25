@@ -7,7 +7,7 @@ To run the code in your local machine, follow some steps below:
 3. It is required to have installed some python packages as mentioned in 'requirements.txt' file. Command for this: "pip install -r requirements.txt" OR You can do it one by one on your own.
 4. Open Juputer notebook and load the folder on it so that you can run code file of your choice. 
 
-To get rid of all these steps, you can run in the Google Colab (https://colab.research.google.com/) by bringing files online.
+To get rid of all these steps, you can run those files in the Google Colab (https://colab.research.google.com/) without having overhead.
 
 Thank You!
 
