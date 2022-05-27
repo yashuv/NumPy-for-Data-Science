@@ -1,4 +1,4 @@
-# NumPy-for-Data-Science
+# NumPy-for-Data-Science 🔥
 
 To run the code in your local machine, follow some steps below:
 
