@@ -1,5 +1,18 @@
 # NumPy-for-Data-Science 🔥
 
+<h3>What I learnt? 👨‍💻📙🐍 </h3>
+<h4><pre>
+  🔸Basics of NumPy              🔸Vectorization
+  🔸Ndarray                      🔸Apply Functions
+  🔸Data Types                   🔸Interpolation 
+  🔸Import and Export Data       🔸Universal Functions (uFuncs)
+  🔸Handling Missing Data        🔸Fitting Polynomials
+  🔸Random Numbers               🔸Matrix Opertions for Linear Algebra 
+  🔸Statistical Summaries        🔸Solving Linear Equations
+  🔸Data Manipulation
+</h4></pre>
+
+<h5>
 To run the code in your local machine, follow some steps below:
 
 1. Download the root folder (Numpy for Data Science) in your machine. Set this folder as the current working directory.
@@ -12,5 +25,5 @@ To get rid of all these steps, you can run those files in the Google Colab (http
 If problems still exist, you can mail me on yashuv.baskota1@gmail.com
 
 Thank You! HappY Coding..
-
+</h5>
 
